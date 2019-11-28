@@ -1,5 +1,5 @@
 {
-    "name": "zachleigh/laravel-property-bag",
+    "name": "alexdemers/laravel-property-bag",
     "description": "Easy Laravel user settings using a property bag",
     "type": "project",
     "keywords": ["laravel", "user", "settings", "property", "user settings", "propety bag"],
